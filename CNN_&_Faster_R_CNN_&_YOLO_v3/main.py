@@ -7,9 +7,9 @@ from io import BytesIO
 import cv2
 
 #you can choose from the models you want to use:
-from Faster_rcnn import Detector
+#from Faster_rcnn import Detector
 #from CNN import Detector
-#from YOLO_v3 import Detector
+from YOLO_v3 import Detector
 
 app = FastAPI()
 detector = Detector()
