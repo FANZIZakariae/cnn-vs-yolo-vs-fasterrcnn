@@ -1,6 +1,6 @@
 # 🧠 Object Detection Using CNN, Faster R-CNN & YOLOv3
 
-This project explores, implements, and compares three major object detection architectures — **Classic CNN**, **Faster R-CNN**, and **YOLOv3** — using real-world datasets and modern deep learning tools.
+This project explores, implements, and compares three major object detection architectures — **Classic CNN**, **Faster R-CNN**, and **YOLOv3** — using real-world datasets and modern deep learning tools.The models are integrated into a unified web API using FastAPI, allowing users to upload images and visualize object detection results dynamically through an interactive interface.
 
 ---
 
